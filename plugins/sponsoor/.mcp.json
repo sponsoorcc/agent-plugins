@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "sponsoor": {
+      "type": "http",
+      "url": "https://app.sponsoor.cc/mcp",
+      "headers": { "Authorization": "Bearer ${SPONSOOR_API_KEY}" }
+    }
+  }
+}

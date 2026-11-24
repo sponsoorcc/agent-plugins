@@ -1,0 +1,17 @@
+{
+  "name": "sponsoor",
+  "owner": {
+    "name": "Sponsoor",
+    "url": "https://sponsoor.cc"
+  },
+  "plugins": [
+    {
+      "name": "sponsoor",
+      "source": "./plugins/sponsoor",
+      "description": "YouTube sponsorship intelligence: which brands sponsor which creators, from inside your coding agent."
+    }
+  ],
+  "metadata": {
+    "description": "Sponsoor plugins for coding agents: YouTube sponsorship data over MCP."
+  }
+}

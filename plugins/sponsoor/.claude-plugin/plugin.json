@@ -1,0 +1,11 @@
+{
+  "name": "sponsoor",
+  "version": "0.1.0",
+  "description": "Sponsoor: search YouTube sponsors, creators and sponsored videos from your coding agent (MCP).",
+  "homepage": "https://sponsoor.cc/developers/",
+  "license": "MIT",
+  "author": {
+    "name": "Sponsoor",
+    "url": "https://sponsoor.cc"
+  }
+}
