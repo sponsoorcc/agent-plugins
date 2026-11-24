@@ -15,7 +15,7 @@ export SPONSOOR_API_KEY=spk_your_key
 ### Claude Code
 
 ```
-/plugin marketplace add OWNER/REPO
+/plugin marketplace add sponsoorcc/agent-plugins
 /plugin install sponsoor@sponsoor
 ```
 
